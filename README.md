@@ -5,37 +5,37 @@ I'm a passionate software developer with a B.Sc. in Computer Science from the Ho
 
 ## Projects
 
-### 🍲 [Recipe-Bot Suggestor](#)
+### 🍲 [Recipe-Bot Suggestor](https://drive.google.com/file/d/1KhJP1U5A6try0lpcBVmDQgiJmh7o-JMQ/view)
 A bot that suggests recipes based on ingredients using image recognition and NLP.
 - **Tech Stack**: MongoDB, Java Spring Boot, React, AWS S3, AWS Rekognition, OpenAI API
 - **Key Features**: Image analysis, recipe generation, secure JWT authentication.
 
-### 🗺️ [Safety Map](#)
+### 🗺️ [Safety Map](https://safetymap.onrender.com/)
 A web platform that provides real-time security insights for travelers.
 - **Tech Stack**: MERN (MongoDB, Express.js, React, Node.js), Python
 - **Key Features**: Data scraping, interactive map, real-time updates.
 
-### 🔍 [Tweets Sentiment Analysis](#)
+### 🔍 [Tweets Sentiment Analysis](https://daniel-sentimentanalysis.runmydocker-app.com/swagger-ui.html#/)
 An asynchronous pipeline for real-time sentiment analysis on tweets.
 - **Tech Stack**: Java, Spring Boot, Redis, Kafka, Spring WebFlux
 - **Key Features**: Real-time processing, reactive programming, sentiment analysis.
 
-### 🕸️ [Search Engine](#)
+### 🕸️ [Search Engine](https://daniel-searchengine.runmydocker-app.com/swagger-ui.html#/app-controller)
 A search engine implementation that crawls and indexes content using BFS.
 - **Tech Stack**: Java, Kafka, Redis, Elasticsearch
 - **Key Features**: BFS crawling, efficient content indexing.
 
-### 🤖 [Chatbot](#)
+### 🤖 [Chatbot](https://danielshapchatbot.runmydocker-app.com/swagger-ui.html)
 A chatbot that returns Chuck Norris-themed jokes based on a keyword.
 - **Tech Stack**: JSON scraping, Dialog Flow, Webhook, Spring Boot
 - **Key Features**: Conversational AI, humor generation.
 
-### 🎮 [C# OOP Game](#)
+### 🎮 [C# OOP Game](https://github.com/DanielShapi4a/Space-Invaders)
 An immersive game with advanced graphics and a customizable level editor.
 - **Tech Stack**: C#, OOP principles
 - **Key Features**: Custom level design, AI integration.
 
-### 📊 [Recipe Rating Predictor](#)
+### 📊 [Recipe Rating Predictor](https://github.com/DanielShapi4a/Data-Science-Recipe-Project)
 A machine learning project predicting recipe ratings with high accuracy.
 - **Tech Stack**: Python, Selenium, Data Science Libraries
 - **Key Features**: Web scraping, ML-based prediction, 95% accuracy.
@@ -106,8 +106,8 @@ A machine learning project predicting recipe ratings with high accuracy.
 
 
 ## Get In Touch
-- **LinkedIn**: [Daniel Shapira](#https://www.linkedin.com/in/danielshapira12/)
+- **LinkedIn**: [Daniel Shapira](https://www.linkedin.com/in/danielshapira12/)
 - **Email**: [Danielshapira3@gmail.com](mailto:Danielshapira3@gmail.com)
-- **GitHub**: [github.com/DanielShapi4a](#https://github.com/DanielShapi4a)
+- **GitHub**: [github.com/DanielShapi4a](https://github.com/DanielShapi4a)
 
 Let's connect and collaborate on exciting projects!
