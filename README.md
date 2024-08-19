@@ -13,7 +13,7 @@ A bot that suggests recipes based on ingredients using image recognition and NLP
 ### 🗺️ [Safety Map](https://safetymap.onrender.com/)
 A web platform that provides real-time security insights for travelers.
 - **Tech Stack**: MERN (MongoDB, Express.js, React, Node.js), Python
-- **Key Features**: Data scraping, interactive map, real-time updates.
+- **Key Features**: Data scraping, interactive map, real-time updates, GeoJSON.
 
 ### 🔍 [Tweets Sentiment Analysis](https://daniel-sentimentanalysis.runmydocker-app.com/swagger-ui.html#/)
 An asynchronous pipeline for real-time sentiment analysis on tweets.
@@ -28,7 +28,7 @@ A search engine implementation that crawls and indexes content using BFS.
 ### 🤖 [Chatbot](https://danielshapchatbot.runmydocker-app.com/swagger-ui.html)
 A chatbot that returns Chuck Norris-themed jokes based on a keyword.
 - **Tech Stack**: JSON scraping, Dialog Flow, Webhook, Spring Boot
-- **Key Features**: Conversational AI, humor generation.
+- **Key Features**: Conversational AI.
 
 ### 🎮 [C# OOP Game](https://github.com/DanielShapi4a/Space-Invaders)
 An immersive game with advanced graphics and a customizable level editor.
