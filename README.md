@@ -6,7 +6,7 @@ I'm a passionate software developer with a B.Sc. in Computer Science from the Ho
 ## Projects
 
 ### 🍲 [Recipe-Bot Suggestor](https://drive.google.com/file/d/1KhJP1U5A6try0lpcBVmDQgiJmh7o-JMQ/view)
-A bot that suggests recipes based on ingredients using image recognition and NLP.
+A bot that suggests recipes based on ingredients using image recognition.
 - **Tech Stack**: MongoDB, Java Spring Boot, React, AWS S3, AWS Rekognition, OpenAI API
 - **Key Features**: Image analysis, recipe generation, secure JWT authentication.
 
