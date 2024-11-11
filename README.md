@@ -1,7 +1,7 @@
 # Hi, I'm Daniel Shapira! 👋
 
 ## About Me
-I'm a passionate software developer with a B.Sc. in Computer Science from the Holon Institute of Technology (GPA: 90). I thrive on mastering new technologies and have a strong foundation in data structures, algorithms, and full-stack development. My goal is to create impactful software solutions that solve real-world problems.
+I'm a passionate Full-Stack Developr currently working at Webiks. I thrive on mastering new technologies and have a strong foundation in data structures, algorithms, and full-stack development. My goal is to create impactful software solutions that solve real-world problems.
 
 ## Projects
 
